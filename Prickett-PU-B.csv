@@ -1,33 +1,33 @@
-/bat/ /bat-a/ /bat-i/ /bat-i-a/,,*ti,Ident[ant]-IO,*VV,Max-IO,Max-BD,Ident-BD,Max-OP,Ident-OP
-bat bat-a bat-i bat-i-a,,**,,*,,,,,
-bat bat-a bat-i bat-_-a,,*,,,*,,,*,
-bat bat-a bat-i batS-i-a,,*,*,*,,,,,*
-bat bat-a bat-i batS-_-a,,*,*,,*,,,*,*
-bat bat-a batS-i bat-i-a,,*,*,*,,,*,,*
-bat bat-a batS-i bat-_-a,1,,*,,*,,*,*,*
-bat bat-a batS-i batS-i-a,,,**,*,,,*,,
-bat bat-a batS-i batS-_-a,,,**,,*,,*,*,
-bat batS-a bat-i bat-i-a,,**,*,*,,,,,
-bat batS-a bat-i bat-_-a,,*,*,,*,,,*,
-bat batS-a bat-i batS-i-a,,*,**,*,,,,,*
-bat batS-a bat-i batS-_-a,,*,**,,*,,,*,*
-bat batS-a batS-i bat-i-a,,*,**,*,,,*,,*
-bat batS-a batS-i bat-_-a,,,**,,*,,*,*,*
-bat batS-a batS-i batS-i-a,,,***,*,,,*,,
-bat batS-a batS-i batS-_-a,,,***,,*,,*,*,
-batS bat-a bat-i bat-i-a,,**,*,*,,,*,,
-batS bat-a bat-i bat-_-a,,*,*,,*,,*,*,
-batS bat-a bat-i batS-i-a,,*,**,*,,,*,,*
-batS bat-a bat-i batS-_-a,,*,**,,*,,*,*,*
-batS bat-a batS-i bat-i-a,,*,**,*,,,,,*
-batS bat-a batS-i bat-_-a,,,**,,*,,,*,*
-batS bat-a batS-i batS-i-a,,,***,*,,,,,
-batS bat-a batS-i batS-_-a,,,***,,*,,,*,
-batS batS-a bat-i bat-i-a,,**,**,*,,,*,,
-batS batS-a bat-i bat-_-a,,*,**,,*,,*,*,
-batS batS-a bat-i batS-i-a,,*,***,*,,,*,,*
-batS batS-a bat-i batS-_-a,,*,***,,*,,*,*,*
-batS batS-a batS-i bat-i-a,,*,***,*,,,,,*
-batS batS-a batS-i bat-_-a,,,***,,*,,,*,*
-batS batS-a batS-i batS-i-a,,,****,*,,,,,
-batS batS-a batS-i batS-_-a,,,****,,*,,,*,
+/bat/~/bat-a/~/bat-i/~/bat-i-a/,,*ti,Ident[ant]-IO,*VV,Max-IO,Max-BD,Ident-BD,Max-OP,Ident-OP
+bat~bat-a~bat-i~bat-i-a,,**,,*,,,,,
+bat~bat-a~bat-i~bat-_-a,,*,,,*,,,*,
+bat~bat-a~bat-i~batS-i-a,,*,*,*,,,,,*
+bat~bat-a~bat-i~batS-_-a,,*,*,,*,,,*,*
+bat~bat-a~batS-i~bat-i-a,,*,*,*,,,*,,*
+bat~bat-a~batS-i~bat-_-a,1,,*,,*,,*,*,*
+bat~bat-a~batS-i~batS-i-a,,,**,*,,,*,,
+bat~bat-a~batS-i~batS-_-a,,,**,,*,,*,*,
+bat~batS-a~bat-i~bat-i-a,,**,*,*,,,,,
+bat~batS-a~bat-i~bat-_-a,,*,*,,*,,,*,
+bat~batS-a~bat-i~batS-i-a,,*,**,*,,,,,*
+bat~batS-a~bat-i~batS-_-a,,*,**,,*,,,*,*
+bat~batS-a~batS-i~bat-i-a,,*,**,*,,,*,,*
+bat~batS-a~batS-i~bat-_-a,,,**,,*,,*,*,*
+bat~batS-a~batS-i~batS-i-a,,,***,*,,,*,,
+bat~batS-a~batS-i~batS-_-a,,,***,,*,,*,*,
+batS~bat-a~bat-i~bat-i-a,,**,*,*,,,*,,
+batS~bat-a~bat-i~bat-_-a,,*,*,,*,,*,*,
+batS~bat-a~bat-i~batS-i-a,,*,**,*,,,*,,*
+batS~bat-a~bat-i~batS-_-a,,*,**,,*,,*,*,*
+batS~bat-a~batS-i~bat-i-a,,*,**,*,,,,,*
+batS~bat-a~batS-i~bat-_-a,,,**,,*,,,*,*
+batS~bat-a~batS-i~batS-i-a,,,***,*,,,,,
+batS~bat-a~batS-i~batS-_-a,,,***,,*,,,*,
+batS~batS-a~bat-i~bat-i-a,,**,**,*,,,*,,
+batS~batS-a~bat-i~bat-_-a,,*,**,,*,,*,*,
+batS~batS-a~bat-i~batS-i-a,,*,***,*,,,*,,*
+batS~batS-a~bat-i~batS-_-a,,*,***,,*,,*,*,*
+batS~batS-a~batS-i~bat-i-a,,*,***,*,,,,,*
+batS~batS-a~batS-i~bat-_-a,,,***,,*,,,*,*
+batS~batS-a~batS-i~batS-i-a,,,****,*,,,,,
+batS~batS-a~batS-i~batS-_-a,,,****,,*,,,*,
