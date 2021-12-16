@@ -1,0 +1,17 @@
+/kito/~/ilip/~/kito-ilip-a/,,*ti,*CC,*VV,Max-V-IO,Ident-IO,Dep-V-IO,Max-V-OP,Ident-OP,Dep-V-OP
+kito~ilip~kito-ilip-a,,,,*,,,,,,
+kito~ilip~kitSo-ilip-a,,,,*,,*,,,*,
+kito~ilip~kit-ilip-a,,*,,,*,,,*,,*
+kito~ilip~kitS-ilip-a,1,,,,*,*,,*,*,*
+kitSo~ilip~kito-ilip-a,,,,*,,*,,,*,
+kitSo~ilip~kitSo-ilip-a,,,,*,,**,,,,
+kitSo~ilip~kit-ilip-a,,*,,,*,*,,*,*,*
+kitSo~ilip~kitS-ilip-a,,,,,*,**,,*,,*
+kit~ilip~kito-ilip-a,,,,*,,,,*,,*
+kit~ilip~kitSo-ilip-a,,,,*,,*,,*,*,*
+kit~ilip~kit-ilip-a,,*,,,*,,,,,
+kit~ilip~kitS-ilip-a,,,,,*,*,,,*,
+kitS~ilip~kito-ilip-a,,,,*,,*,,*,*,*
+kitS~ilip~kitSo-ilip-a,,,,*,,**,,*,,*
+kitS~ilip~kit-ilip-a,,*,,,*,*,,,*,
+kitS~ilip~kitS-ilip-a,,,,,*,**,,,,
